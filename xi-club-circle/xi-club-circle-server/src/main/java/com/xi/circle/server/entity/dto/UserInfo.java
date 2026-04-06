@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.entity.dto;
+package com.xi.circle.server.entity.dto;
 
 import lombok.Data;
 

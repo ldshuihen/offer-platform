@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.controller;
+package com.xi.circle.server.controller;
 
 import com.alibaba.fastjson.JSON;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;

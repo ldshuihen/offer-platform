@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config.redis;
+package com.xi.circle.server.config.redis;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.core.RedisTemplate;

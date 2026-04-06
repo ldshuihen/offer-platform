@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.util;
+package com.xi.circle.server.util;
 
 import com.xi.circle.api.common.TreeNode;
 import org.springframework.util.CollectionUtils;

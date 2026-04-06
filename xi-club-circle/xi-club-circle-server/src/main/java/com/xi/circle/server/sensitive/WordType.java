@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.sensitive;
+package com.xi.circle.server.sensitive;
 
 /**
  * 词汇类型

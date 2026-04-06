@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config.mybatis;
+package com.xi.circle.server.config.mybatis;
 
 import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor;

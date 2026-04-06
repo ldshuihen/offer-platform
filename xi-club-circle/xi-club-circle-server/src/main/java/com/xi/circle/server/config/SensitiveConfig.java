@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config;
+package com.xi.circle.server.config;
 
 import com.jingdianjichi.circle.server.sensitive.WordContext;
 import com.jingdianjichi.circle.server.sensitive.WordFilter;

@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.util;
+package com.xi.circle.server.util;
 
 import com.jingdianjichi.circle.server.config.context.LoginContextHolder;
 

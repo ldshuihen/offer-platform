@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.rpc;
+package com.xi.circle.server.rpc;
 
 import com.xi.auth.api.UserFeignService;
 import com.xi.auth.entity.AuthUserDTO;

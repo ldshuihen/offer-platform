@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config.interceptor;
+package com.xi.circle.server.config.interceptor;
 
 import feign.RequestInterceptor;
 import org.springframework.context.annotation.Bean;

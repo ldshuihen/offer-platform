@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.controller;
+package com.xi.circle.server.controller;
 
 import com.baomidou.mybatisplus.core.conditions.update.LambdaUpdateWrapper;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;

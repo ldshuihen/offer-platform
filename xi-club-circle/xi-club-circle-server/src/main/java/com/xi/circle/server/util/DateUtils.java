@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.util;
+package com.xi.circle.server.util;
 
 import lombok.extern.slf4j.Slf4j;
 

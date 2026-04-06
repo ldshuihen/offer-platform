@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config.context;
+package com.xi.circle.server.config.context;
 
 import java.util.Map;
 import java.util.Objects;

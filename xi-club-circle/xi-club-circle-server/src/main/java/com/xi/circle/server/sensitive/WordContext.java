@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.sensitive;
+package com.xi.circle.server.sensitive;
 
 import com.alibaba.fastjson.JSON;
 import com.baomidou.mybatisplus.core.conditions.update.LambdaUpdateWrapper;

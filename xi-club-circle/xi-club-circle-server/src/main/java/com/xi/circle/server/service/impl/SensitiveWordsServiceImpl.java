@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.service.impl;
+package com.xi.circle.server.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.jingdianjichi.circle.server.dao.SensitiveWordsMapper;

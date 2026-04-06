@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.dao;
+package com.xi.circle.server.dao;
 
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;

@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.entity.po;
+package com.xi.circle.server.entity.po;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

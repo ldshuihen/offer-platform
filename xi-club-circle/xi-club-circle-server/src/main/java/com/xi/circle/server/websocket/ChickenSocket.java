@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.websocket;
+package com.xi.circle.server.websocket;
 
 import com.jingdianjichi.circle.server.config.websocket.WebSocketServerConfig;
 import lombok.extern.slf4j.Slf4j;

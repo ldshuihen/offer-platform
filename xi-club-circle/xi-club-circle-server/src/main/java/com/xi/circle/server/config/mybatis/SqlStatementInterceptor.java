@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config.mybatis;
+package com.xi.circle.server.config.mybatis;
 
 import org.apache.ibatis.cache.CacheKey;
 import org.apache.ibatis.executor.Executor;

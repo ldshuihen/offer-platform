@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config;
+package com.xi.circle.server.config;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.sensitive;
+package com.xi.circle.server.sensitive;
 
 /**
  * 结束类型定义

@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.config.interceptor;
+package com.xi.circle.server.config.interceptor;
 
 import com.jingdianjichi.circle.server.config.context.LoginContextHolder;
 import org.apache.commons.lang3.StringUtils;

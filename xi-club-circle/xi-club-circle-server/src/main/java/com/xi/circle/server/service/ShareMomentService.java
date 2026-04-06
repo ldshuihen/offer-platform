@@ -1,4 +1,4 @@
-package com.jingdianjichi.circle.server.service;
+package com.xi.circle.server.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.xi.circle.api.common.PageResult;
