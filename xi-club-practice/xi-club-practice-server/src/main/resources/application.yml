@@ -3,7 +3,7 @@ server:
 spring:
   datasource:
     username: root
-    password: xew.0511
+    password: xxx
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://192.168.137.128:3306/jc-club?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8&useSSL=false
     type: com.alibaba.druid.pool.DruidDataSource
